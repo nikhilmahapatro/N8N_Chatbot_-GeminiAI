@@ -6,7 +6,7 @@ A chatbot flow for [n8n](https://n8n.io) powered by Gemini Pro (Google AI), with
 
 ---
 
-### 🔧 What it does
+### What it does
 
 - Handles chat interactions with Google Gemini (Pro) via API
 - Uses a webhook trigger to receive user input
@@ -16,15 +16,14 @@ A chatbot flow for [n8n](https://n8n.io) powered by Gemini Pro (Google AI), with
 
 ---
 
-### 🖼️ Demo
+### Demo
 
-_Full visual guide included in the repo (PNG screenshots in sequence)_
 
-![Chat Flow Canvas](./Screenshots/N8N_ChatBot_1.png)
+![Chatbot](N8NChatBot_18_EUREKA.png)
 
 ---
 
-### 💬 Sample Output
+### Sample Output
 
 > You: Hey, what’s the weather in Delhi?  
 > Bot: The current weather in Delhi is 37°C and sunny. Would you like a 3-day forecast?
