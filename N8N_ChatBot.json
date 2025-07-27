@@ -3,6 +3,8 @@
   "nodes": [
     {
       "parameters": {
+        "public": true,
+        "initialMessages": "Hey Pumpkin! 👋\nThis is the Zodiac speaking. How can I assist you today?",
         "options": {}
       },
       "type": "@n8n/n8n-nodes-langchain.chatTrigger",
@@ -95,11 +97,11 @@
       ]
     }
   },
-  "active": false,
+  "active": true,
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "05eff659-5488-479d-b5c1-021dcf83c704",
+  "versionId": "70c38ab6-a50a-445c-b264-9848c6ed2242",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "1821847a37c83b74369a621203657d9abd3a915883cbd21b09836640bb9be35d"
